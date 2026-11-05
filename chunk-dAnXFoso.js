@@ -1,0 +1,1 @@
+function t(e){return Math.max(0,e.maxPlayers-e.players.length-e.spotsLeft)}export{t};
